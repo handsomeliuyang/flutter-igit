@@ -1,0 +1,26 @@
+[
+  {
+    "id": "core",
+    "name": "无线"
+  },
+  {
+    "id": "house",
+    "name": "房产"
+  },
+  {
+    "id":"sale",
+    "name":"二手"
+  },
+  {
+    "id": "job",
+    "name": "招聘"
+  },
+  {
+    "id":"huangye",
+    "name":"黄页"
+  },
+  {
+    "id":"car",
+    "name":"二手车"
+  }
+]
